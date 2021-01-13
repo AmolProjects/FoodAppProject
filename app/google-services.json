@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803178332968",
+    "firebase_url": "https://eatitv2-503df.firebaseio.com",
+    "project_id": "eatitv2-503df",
+    "storage_bucket": "eatitv2-503df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803178332968:android:4c4bac14ff7c2d279f061d",
+        "android_client_info": {
+          "package_name": "com.example.androideatitv2client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803178332968-5ndc079bghujktj9iaa3gjr87u8uqvkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChB8mPDFr_X3gHEGD4NpY81T2LNwdE6h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803178332968-5ndc079bghujktj9iaa3gjr87u8uqvkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
